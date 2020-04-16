@@ -1,3 +1,9 @@
+## Website
+The website can be accessed [here](https://vipembryoimageanalysis.github.io/homepage/), or by copying the following to your web browser:
+```
+https://vipembryoimageanalysis.github.io/homepage/
+```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/VIPEmbryoImageAnalysis/embryo-image-analysis.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
