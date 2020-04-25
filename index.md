@@ -3,6 +3,7 @@
 - [GitHub Organization](#github-organization)
 - [Ongoing Projects](#ongoing-projects)
 - [Past Projects](#past-projects)
+- [Past Documentation](#documentation)
 - [Meet the Team](#meet-the-team)
 - [Mentors](#mentors)
 - [Partners](#partners)
@@ -22,11 +23,45 @@ https://github.com/VIPEmbryoImageAnalysis
 
 # Ongoing Projects
 
-## Pyhthon Translation, Fall 2019 - Current
+## Python Translation, Fall 2019 - Current
+*Goal:* To transfer the code from MATLAB scripts into Python to allow an open-source access to our code.
+
+*In-Progress:* Most of the code has been successfully transferred to Python. The script for network training is still being processed. The code repository can be found [here](https://github.com/VIPEmbryoImageAnalysis/network-training/tree/master/Python), or by copying the following link into your web browser:
+```
+https://github.com/VIPEmbryoImageAnalysis/network-training/tree/master/Python
+```
+
+
+## MATLAB Embryo Analysis Application, Spring 2020
+*Goal:* Create a standalone application to process embryo videos using the UNET neural network trained. 
+
+*Result:* A MATLAB application developed using App Designer was successfully developed. The application installer can be installed [here](https://drive.google.com/open?id=1LD3cDBIbPlYZ5EVDTsal68xdpcRWVNni). You can also download the installer via the link below:
+```
+https://drive.google.com/open?id=1LD3cDBIbPlYZ5EVDTsal68xdpcRWVNni
+```
+
+The source repository for the application can be found [here](https://github.com/VIPEmbryoImageAnalysis/embryo-analysis-application), or by copying the following link into your web browser:
+```
+https://github.com/VIPEmbryoImageAnalysis/embryo-analysis-application
+```
+
+*How to Use:*
+1) Install the [installer](https://drive.google.com/open?id=1LD3cDBIbPlYZ5EVDTsal68xdpcRWVNni)
+2) Download the application
+3) Select videos
+4) Choose videos to use (or delete)
+5) Analyze results
+6) Observe the results
+7) Save results
 
 # Past Projects
 
-## MATLAB Embryo Analysis Application, Spring 2020
+# Documentation
+## Spring 2020
+### Video
+
+
+### Final Report
 
 
 # Meet the Team
