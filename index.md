@@ -78,17 +78,9 @@ https://github.com/VIPEmbryoImageAnalysis/embryo-analysis-application
 6) Observe the results
 7) Save results
 
-# Documentation
-## Spring 2020
-### Video
-
-
-### Final Report
-
-
 # Meet the Team
 - Shaun Anthony Corpuz
-- Christine Marlet Ramos
+- [Christine Marlet Ramos](https://github.com/christinebramos)
 - Dikshika Shrestha
 - Keith Maki
 - Zoe Mills
@@ -107,5 +99,5 @@ https://github.com/VIPEmbryoImageAnalysis/embryo-analysis-application
 
 # Alumni
 - Joel Antonio
-- [Willy Chang](https://willychangx.github.io/)
+- [Willy Chang](https://github.com/willychangx)
 - Quinn Bianchi-Lawson
