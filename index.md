@@ -3,7 +3,6 @@
 - [GitHub Organization](#github-organization)
 - [Ongoing Projects](#ongoing-projects)
 - [Past Projects](#past-projects)
-- [Past Documentation](#documentation)
 - [Meet the Team](#meet-the-team)
 - [Mentors](#mentors)
 - [Partners](#partners)
