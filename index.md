@@ -32,6 +32,10 @@ https://github.com/VIPEmbryoImageAnalysis
 ```
 https://drive.google.com/drive/u/2/folders/1wc-yvcfffQpePBkfdjm6qq2cUrNeZFMj
 ```
+The source repository for the application can be found [here](https://github.com/VIPEmbryoImageAnalysis/embryo-analysis-application/tree/tkinter-python), or by copying the following link into your web browser:
+```
+https://github.com/VIPEmbryoImageAnalysis/embryo-analysis-application/tree/tkinter-python
+```
 
 *How to Use:*
 1) Install the [application](https://drive.google.com/drive/u/2/folders/1wc-yvcfffQpePBkfdjm6qq2cUrNeZFMj)
@@ -64,6 +68,15 @@ The source repository for the application can be found [here](https://github.com
 ```
 https://github.com/VIPEmbryoImageAnalysis/embryo-analysis-application
 ```
+
+*How to Use:*
+1) Install the [application](https://drive.google.com/open?id=1LD3cDBIbPlYZ5EVDTsal68xdpcRWVNni)
+2) Download the application
+3) Select videos
+4) Choose videos to use (or delete)
+5) Analyze results
+6) Observe the results
+7) Save results
 
 # Documentation
 ## Spring 2020
